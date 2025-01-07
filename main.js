@@ -7,4 +7,4 @@ function Mian() {
   );
 }
 
-default Main;
+export default Main;
