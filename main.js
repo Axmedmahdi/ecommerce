@@ -6,3 +6,5 @@ function Mian() {
     </div>
   );
 }
+
+default Main;
